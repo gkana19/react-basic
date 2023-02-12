@@ -1,0 +1,16 @@
+.expense {
+    border-right: 6px solid red;
+    
+}
+
+.expense .amount{
+    color: red;    
+}
+
+.income {
+    border-right: 6px solid green;
+}
+
+.income .amount{
+    color: green;    
+}
